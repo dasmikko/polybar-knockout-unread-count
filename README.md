@@ -3,6 +3,7 @@
 A super simple unread counter for the Knockout forum
 
 # Screenshot
+![alt text](https://github.com/dasmikko/polybar-knockout-unread-count/blob/master/screenshot.png?raw=true)
 
 # Requirements
 - NodeJS
