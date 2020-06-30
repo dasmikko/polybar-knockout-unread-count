@@ -1,4 +1,4 @@
-# polybar-knockout-unread-count
+# Knockout.chat unread count module
 
 A super simple unread counter for the Knockout forum
 
